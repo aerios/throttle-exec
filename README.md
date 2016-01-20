@@ -38,3 +38,6 @@ wrappedSync(5,2).then(function(result){
 }).catch(console.error) // any error will be thrown from try and trigger reject
 
 ```
+
+## GitHub
+https://github.com/aerios/throttle-exec
