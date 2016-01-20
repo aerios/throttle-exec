@@ -20,9 +20,6 @@
     "underscore": "^1.8.3",
     "when": "^3.7.7"
   },
-  "_id": "throttle-exec@2.2.2",
-  "_shasum": "5285b406c50fbbec481c9e59ed98bdd0fa171293",
-  "_from": "throttle-exec@*",
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.4",
