@@ -20,7 +20,6 @@
     "underscore": "^1.8.3",
     "when": "^3.7.7"
   },
-  "readme": "ERROR: No README data found!",
   "_id": "throttle-exec@2.2.2",
   "_shasum": "5285b406c50fbbec481c9e59ed98bdd0fa171293",
   "_from": "throttle-exec@*",
