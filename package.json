@@ -1,6 +1,6 @@
 {
   "name": "throttle-exec",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "throttling engine based on ES6 Promise",
   "main": "index.js",
   "scripts": {
