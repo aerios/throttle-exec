@@ -1,0 +1,32 @@
+{
+  "name": "throttle-exec",
+  "version": "3.0.0",
+  "description": "throttling engine based on ES6 Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --timeout=30000"
+  },
+  "keywords": [
+    "throttle",
+    "event",
+    "process",
+    "management"
+  ],
+  "author": {
+    "name": "harippe"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "when": "^3.7.7"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "throttle-exec@2.2.2",
+  "_shasum": "5285b406c50fbbec481c9e59ed98bdd0fa171293",
+  "_from": "throttle-exec@*",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "sinon": "^1.17.2"
+  }
+}
