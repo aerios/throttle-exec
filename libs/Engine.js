@@ -157,5 +157,9 @@ Throttle.prototype.registerFunction = registerFunction
 Throttle.prototype.registerAction = registerAction
 Throttle.prototype.dropQueue = dropQueue;
 Throttle.prototype.wrap = wrapFunction
+Throttle.prototype.stop = dropQueue
+Throttle.getInstance = function(num){
+	
+}
 
 module.exports = Throttle;
